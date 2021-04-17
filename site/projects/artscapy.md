@@ -15,7 +15,7 @@ gallery-image-3:
   alt: ""
 problem-overview: "Ho gestito la parte di presentazione e decks, la creazione della gestione del brand, la sua comunicazione e la sua interfaccia web da unico Design Manager. "
 project-image:
-  url: "https://uploads-ssl.webflow.com/60703b59d94a9d52269b0d32/6071614ae5f2cef461e3e3db_artscapy.png"
+  url: "https://uploads-ssl.webflow.com/60703b59d94a9d52269b0d32/607a928a3878102361c84d8b_home.png"
   alt: ""
 gallery-image-split-left:
   url: "https://uploads-ssl.webflow.com/60703b59d94a9d52269b0d32/60714f77693222e248da2a2c_4.png"
@@ -25,15 +25,15 @@ name: "Artscapy"
 slug: "artscapy"
 solution-overview: "In 3 mesi, tramite Notion, processi e pratiche stabilite, ho oggettificato decisioni di design e creato l'esperienza principale (MVP) stabilita per ricevere il primo round di finanziamenti."
 new-image:
-  url: "https://uploads-ssl.webflow.com/60703b59d94a9d52269b0d32/607097c61482806cdfaed20e_artscapy.png"
+  url: "https://uploads-ssl.webflow.com/60703b59d94a9d52269b0d32/607a9266ee46ee550536a28e_Frame%201988.png"
   alt: ""
-updated-on: "2021-04-10T08:27:01.821Z"
+updated-on: "2021-04-17T07:48:18.599Z"
 overview: "Artscapy è uno network in cui gli amanti dell'arte possono riunirsi, esplorare nuove opere, acquistarle e gestire le loro collezioni."
 client-overview: "La sfida di Alessandro ed Emilia é stata quella di voler connettere i collezionisti online approfittando della proficua possibilitá di mercato. "
 gallery-image-split-right:
   url: "https://uploads-ssl.webflow.com/60703b59d94a9d52269b0d32/60714f7b45729b102021fa71_5.png"
   alt: ""
-published-on: "2021-04-13T07:16:08.333Z"
+published-on: "2021-04-17T07:54:34.500Z"
 general-content-title: "Lavorare smart, bilanciando qualitá e velocitá "
 tags: "projects"
 layout: "single-projects.html"
